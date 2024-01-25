@@ -1,0 +1,14 @@
+{
+  "name": "web_ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "cy:open": "cypress open"
+  }
+}

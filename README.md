@@ -12,6 +12,6 @@ yarn test
 
 To run API tests
 ```
-cd backend_test
+cd backend
 yarn test
 ```
